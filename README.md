@@ -1,4 +1,4 @@
-#Showcase
+# showcase
 
 *Showcase* is an application for students to browse and read research articles. This idea originates from the UX project called [Project Gallery](https://www.behance.net/gallery/120240899/Project-Gallery/modules/684326629) from CS303 Human-Computer Interaction at Fulbright University Vietnam.
 
